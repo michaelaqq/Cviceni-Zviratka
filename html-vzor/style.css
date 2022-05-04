@@ -58,7 +58,7 @@ h1 {
 /* komponenta AnimalList nepotřebuje žádné styly */
 
 
-/* styly pro komponentu Animal */
+/* styly pro komponentu animal */
 .animal {
   display: flex;
   align-items: center;
